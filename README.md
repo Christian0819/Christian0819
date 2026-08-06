@@ -1,4 +1,4 @@
-## Hi this GITHUB IS BEING USED FOR MY THESIS PROJECT, AND CURRENTLY MAKING MY OWN PROJECT TO BE UPLOADED HERE 👋
+## This is my GitHubAccount
 
 <!--
 **Christian0819/Christian0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
